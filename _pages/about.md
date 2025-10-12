@@ -13,8 +13,6 @@ My research centers on applying advanced computational techniques to analyze pol
 
 I bring a unique interdisciplinary perspective to my research, combining my background in social psychology with expertise in computer science, statistics, and data engineering. This diverse foundation allows me to bridge the gap between technical innovation and social science applications, developing computational solutions that provide meaningful insights into human behavior and democratic processes.
 
-Currently, I work as a Data Engineer at J&K Scientific LLC, where I design and implement automated data extraction and processing systems using cloud technologies. My professional experience complements my academic research, providing me with practical skills in building robust, scalable data infrastructure.
-
 Research Interests
 ======
 My research focuses on:
