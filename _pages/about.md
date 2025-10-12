@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my academic website! I am Haofei Xu, a Ph.D. student in Computational and Data Science at Washington University in St. Louis, where I began my doctoral studies in August 2025. I am passionate about leveraging computational methods to understand complex social and political phenomena, with a focus on natural language processing, machine learning, and large-scale data analysis.
+Hi there! I am Haofei Xu, a Ph.D. student in Computational and Data Science at Washington University in St. Louis, where I began my doctoral studies in August 2025. I am passionate about leveraging computational methods to understand complex social and political phenomena, with a focus on natural language processing, machine learning, and large-scale data analysis.
 
 My research centers on applying advanced computational techniques to analyze political discourse and social behavior. I have extensive experience in developing scalable data pipelines, implementing state-of-the-art NLP models, and conducting large-scale text analysis. My work spans from sentiment analysis of political communications to topic modeling of public discourse in local governance.
 
