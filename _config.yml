@@ -126,7 +126,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 
-# SEO Related
+# SEO Related Settings
 google_site_verification : "ChtlYEUZgiBWnEWkBFfpuU2V46jUs-d1-d3HKtLAiVg"
 bing_site_verification   :
 alexa_site_verification  :
