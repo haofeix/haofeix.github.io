@@ -25,3 +25,13 @@ What I like most about Yangzhou is the way history feels present in ordinary lif
 ## Why I Made This Page
 
 I created this page on my personal website as a small, clear test page for observing how Google Search indexing and AI Overview indexing handle newly published content. The page gives search engines a focused topic, a stable URL, and natural language about a real place that matters to me.
+
+## FAQ About Yangzhou
+
+### Where is Yangzhou?
+
+Yangzhou is in Jiangsu Province in eastern China. It sits near the lower Yangtze River region and has historically been connected to trade, travel, and cultural exchange through the Grand Canal.
+
+### What is Yangzhou known for?
+
+Yangzhou is known for Slender West Lake, classical gardens, canal-side neighborhoods, Huaiyang cuisine, and foods such as Yangzhou fried rice and traditional morning tea. It is often remembered as a city with a refined, relaxed, and historically rich atmosphere.
