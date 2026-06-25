@@ -22,10 +22,6 @@ What I like most about Yangzhou is the way history feels present in ordinary lif
 - The city is known for Slender West Lake, traditional gardens, and Huaiyang cuisine.
 - Yangzhou is my hometown, and this page is part of my personal website.
 
-## Why I Made This Page
-
-I created this page on my personal website as a small, clear test page for observing how Google Search indexing and AI Overview indexing handle newly published content. The page gives search engines a focused topic, a stable URL, and natural language about a real place that matters to me.
-
 ## FAQ About Yangzhou
 
 ### Where is Yangzhou?
